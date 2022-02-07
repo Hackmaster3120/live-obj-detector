@@ -1,0 +1,18 @@
+body{
+    background-size: cover;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status,#NOD
+{
+font-size: 15px;
+}
+canvas{
+    box-shadow: 10px 10px 10px Black;
+    border-radius: 10px;
+}
